@@ -1,4 +1,4 @@
-CPL-Eagle-Library
+CPL-Mentor-Library
 ==========================
 
 Mentor PADS symbols and footprints for the [Common Parts Library](http://octopart.com/common-parts-library).
